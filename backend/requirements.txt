@@ -1,0 +1,13 @@
+tensorflow==2.15.0
+keras==2.15.0
+numpy==1.26.4
+protobuf==4.25.3
+ml-dtypes==0.2.0
+
+opencv-python==4.8.1.78
+
+flask
+flask-cors
+scikit-learn
+pillow
+gunicorn
